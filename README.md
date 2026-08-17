@@ -1,6 +1,6 @@
 # Exercícios de Listas em Python
 
-Projeto com 20 exercícios independentes sobre listas em Python, seguindo a ordem e as restrições da atividade proposta pelo professor.
+Projeto com 20 exercícios independentes sobre listas em Python.
 
 ## Conteúdo
 
